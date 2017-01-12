@@ -1,0 +1,98 @@
+{
+	"ImportPath": "github.com/m-abdalrahman/ud388",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/dchest/uniuri",
+			"Rev": "8902c56451e9b58ff940bbe5fec35d5f9c04584a"
+		},
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v3.0.0-12-ga601269",
+			"Rev": "a601269ab70c205d26370c16f7c81e9017c14e04"
+		},
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Comment": "v1.1-14-g3a5767c",
+			"Rev": "3a5767ca75ece5f7f1440b1d16975247f8d8b221"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.1-27-g757bef9",
+			"Rev": "757bef944d0f21880861c2dd9c871ca543023cba"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.0-107-g373207d",
+			"Rev": "373207d546d4bf4a971d688b63ed787528548d6e"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/sqlite",
+			"Comment": "v1.0-107-g373207d",
+			"Rev": "373207d546d4bf4a971d688b63ed787528548d6e"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Rev": "1c35d901db3da928c72a72d8458480cc9ade058f"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.2.0-11-g6f2749a",
+			"Rev": "6f2749a3ca9b233ffb8749ef9684f7f4d88cee7a"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "5b4074c2c416448b5d06e287167144493aabda43"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "5b4074c2c416448b5d06e287167144493aabda43"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "905989bd20b7c354fd28a61074eed1c8f49ebc89"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "314dd2c0bf3ebd592ec0d20847d27e79d0dbe8dd"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "314dd2c0bf3ebd592ec0d20847d27e79d0dbe8dd"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/consistenthash",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/hashtag",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/pool",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		},
+		{
+			"ImportPath": "gopkg.in/redis.v5/internal/proto",
+			"Comment": "v5.2.0",
+			"Rev": "b9cc17bae020d9c1f467ca0f27d7706c1683c370"
+		}
+	]
+}
